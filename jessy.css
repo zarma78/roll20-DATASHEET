@@ -1,0 +1,29 @@
+.sheet-body
+{
+	background: url('https://images4.alphacoders.com/106/thumb-1920-106826.jpg');
+	background-size: auto; 
+}
+
+.sheet-general
+{
+	margin-left: 1%; 
+	background-color: rgba(255, 255, 255, 0.2); 
+	border-radius: 30px; 
+	width: 1000px; 
+	height: auto; 
+	box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.7); 
+	display: flex; 
+	font-family: Arial; 
+	text-align: center; 
+	color: #F3B13D;
+}
+
+.sheet-sous-gen
+{
+	width: 200px;
+}
+
+.sheet-classe
+{
+	color: #C490EF;
+}
